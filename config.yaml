@@ -1,0 +1,7 @@
+num_levels: 10
+topk: 5
+horizons_events: [1, 5, 10]
+export_format: parquet
+chunk_rows: 500000
+output_dir: results
+plotting: true
